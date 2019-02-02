@@ -1,7 +1,7 @@
 # SCF-Upload-Demo
 腾讯云无服务云函数，接收文件保存至COS。
 
-## 使用
+## 使用
 1. 重命名`config.example.js`为`config.js`并填写COS配置信息
 2. 新建一个腾讯云无服务函数并上传项目代码
 
